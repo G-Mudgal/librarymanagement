@@ -1,0 +1,6 @@
+2022-11-27 13:42:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found (this database is empty); SQL statement:
+select b1_0.book_id,b1_0.book_author,b1_0.book_catalogue,b1_0.book_name,b1_0.book_price,b1_0.book_publisher from book b1_0 where b1_0.book_id=? [42104-214]
+2022-11-27 13:44:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found (this database is empty); SQL statement:
+select b1_0.book_id,b1_0.book_author,b1_0.book_catalogue,b1_0.book_name,b1_0.book_price,b1_0.book_publisher from book b1_0 where b1_0.book_id=? [42104-214]
