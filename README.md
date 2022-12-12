@@ -1,7 +1,7 @@
 # librarymanagement
 Simple Library Management System developed using Spring Boot and Spring Secrity
 
-***Important: Swagger support is not yet available for spring 3***
+##***Important: Swagger support is not yet available for spring 3***
 
 H2 In Memory Database has been used and users are also stored within memory only
 
